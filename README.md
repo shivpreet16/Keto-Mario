@@ -10,3 +10,6 @@ Languages used:
   3. JAVASCRIPT
   
 The game is pretty simple... just jump over the cacti which may or maynot speed up with time or gets thicker ;) 
+
+You can play it at:
+https://shivpreet16.github.io/KetoMario.github.io/
